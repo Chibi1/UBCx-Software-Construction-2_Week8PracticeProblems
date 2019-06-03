@@ -8,12 +8,12 @@ import java.util.List;
  */
 public class GangesOrderShipper {
 
-    private static final double MAX_EXPECTED_SHIPPING = 13.00;
+    private static final double MAX_EXPECTED_SHIPPING = 26.50;
 
     public static void main(String[] args) {
         // Some books that need to be shipped
-        Book b1 = new Book("The Unbearable Lightness of Being John Malkovich", 19.95);
-        Book b2 = new OversizedBook("The Princess Brideshead Revisited", 29.15);
+        StandardSizedBook b1 = new StandardSizedBook("The Unbearable Lightness of Being John Malkovich", 19.95);
+        OversizedStandardSizedBook b2 = new OversizedStandardSizedBook("The Princess Brideshead Revisited", 29.15);
 
         // Add them to a list so it's easy to iterate through them
         List<Book> booksToShip = new ArrayList<>();
@@ -30,7 +30,7 @@ public class GangesOrderShipper {
             System.out.printf("The book %s is being shipped for %.2f in a %s-sized box.\n",
                     thisTitle, shipping, "medium");
 
-            // model.Book is successfully boxed up, so calculate the shipping cost and make sure it's not too expensive
+            // model.StandardSizedBook is successfully boxed up, so calculate the shipping cost and make sure it's not too expensive
             if (shipping > MAX_EXPECTED_SHIPPING) {
                 System.out.printf("WARNING: The shipping for %s is too expensive!\n", thisTitle);
             } else {

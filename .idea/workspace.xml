@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d257cc8a-8492-4587-9393-1c2a051ba1eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GangesSRPStarter/model/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GangesSRPStarter/model/Cloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GangesLSPStarter/model/StandardSizedBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GangesSRPStarter/GangesSRPStarter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GangesSRPStarter/GangesSRPStarter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GangesSRPStarter/model/GangesServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/GangesSRPStarter/model/GangesServiceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GangesSRPStarter/out/.idea/starter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GangesSRPStarter/out/GangesSRPStarter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GangesSRPStarter/out/GangesSRPStarter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GangesLSPStarter/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/GangesLSPStarter/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GangesLSPStarter/model/GangesOrderShipper.java" beforeDir="false" afterPath="$PROJECT_DIR$/GangesLSPStarter/model/GangesOrderShipper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GangesLSPStarter/model/OversizedBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/GangesLSPStarter/model/OversizedStandardSizedBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GangesLSPStarter/out/model/OversizedBook.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,57 +26,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GangesSRPStarter/model/BookStore.java">
+        <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/GangesOrderShipper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GangesSRPStarter/model/Cloud.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="123">
+              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GangesSRPStarter/model/GangesServiceManager.java">
+        <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/OversizedStandardSizedBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state relative-caret-position="375">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
-                <element signature="e#1646#1647#0" expanded="true" />
-                <element signature="e#1692#1693#0" expanded="true" />
-                <element signature="e#2052#2053#0" expanded="true" />
-                <element signature="e#2109#2110#0" expanded="true" />
-                <element signature="e#2307#2308#0" expanded="true" />
-                <element signature="e#2368#2369#0" expanded="true" />
-                <element signature="e#2523#2524#0" expanded="true" />
-                <element signature="e#2561#2562#0" expanded="true" />
-                <element signature="e#2658#2659#0" expanded="true" />
-                <element signature="e#2697#2698#0" expanded="true" />
-                <element signature="e#2823#2824#0" expanded="true" />
-                <element signature="e#2865#2866#0" expanded="true" />
+                <element signature="e#1382#1383#0" expanded="true" />
+                <element signature="e#1439#1440#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GangesSRPStarter/test/GangesServiceManagerTest.java">
+        <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/Box.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            <state relative-caret-position="363">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/StandardSizedBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+              <folding>
+                <element signature="e#1302#1303#0" expanded="true" />
+                <element signature="e#1343#1344#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -100,13 +101,18 @@
         <option value="$PROJECT_DIR$/GangesSRPStarter/model/BookStore.java" />
         <option value="$PROJECT_DIR$/GangesSRPStarter/model/Cloud.java" />
         <option value="$PROJECT_DIR$/GangesSRPStarter/model/GangesServiceManager.java" />
+        <option value="$PROJECT_DIR$/GangesLSPStarter/model/Box.java" />
+        <option value="$PROJECT_DIR$/GangesLSPStarter/model/GangesOrderShipper.java" />
+        <option value="$PROJECT_DIR$/GangesLSPStarter/model/Book.java" />
+        <option value="$PROJECT_DIR$/GangesLSPStarter/model/StandardSizedBook.java" />
+        <option value="$PROJECT_DIR$/GangesLSPStarter/model/OversizedStandardSizedBook.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="22" />
-    <option name="width" value="1295" />
-    <option name="height" value="953" />
+    <option name="x" value="712" />
+    <option name="width" value="1208" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -129,19 +135,13 @@
             <path>
               <item name="design-principles-practice-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-principles-practice-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="GangesSRPStarter" type="462c0819:PsiDirectoryNode" />
+              <item name="GangesLSPStarter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-principles-practice-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-principles-practice-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="GangesSRPStarter" type="462c0819:PsiDirectoryNode" />
+              <item name="GangesLSPStarter" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-principles-practice-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-principles-practice-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="GangesSRPStarter" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GangesServiceManagerTest">
+  <component name="RunManager" selected="Application.GangesOrderShipper">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -281,8 +281,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GangesServiceManagerTest" />
         <item itemvalue="Application.GangesOrderShipper" />
+        <item itemvalue="JUnit.GangesServiceManagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -314,19 +314,19 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="550" y="0" width="1370" height="1200" extended-state="6" />
+    <frame x="712" y="0" width="1208" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49867725" visible="true" weight="0.2560423" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49867725" visible="true" weight="0.2917384" />
       <window_info id="Designer" order="1" />
       <window_info id="Nl-Palette" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.50132275" side_tool="true" visible="true" weight="0.2560423" />
+      <window_info id="Structure" order="3" sideWeight="0.50132275" side_tool="true" visible="true" weight="0.2917384" />
       <window_info id="Favorites" order="4" sideWeight="0.5008865" side_tool="true" weight="0.24979983" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -353,13 +353,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GangesSRPStarter/GangesSRPStarter.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -392,37 +385,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/GangesOrderShipper.java">
+    <entry file="file://$PROJECT_DIR$/GangesSRPStarter/model/Cloud.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GangesSRPStarter/model/BookStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="88">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GangesSRPStarter/test/GangesServiceManagerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GangesSRPStarter/model/Cloud.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -443,6 +419,63 @@
             <element signature="e#2697#2698#0" expanded="true" />
             <element signature="e#2823#2824#0" expanded="true" />
             <element signature="e#2865#2866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GangesSRPStarter/test/GangesServiceManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/GangesOrderShipper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/StandardSizedBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding>
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GangesLSPStarter/model/OversizedStandardSizedBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
           </folding>
         </state>
       </provider>
